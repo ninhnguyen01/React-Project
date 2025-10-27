@@ -1,0 +1,3 @@
+To upgrade to the latest version of npm on *nix (OSX, Linux, etc.), you can run this command in your terminal:
+
+sudo npm install -g npm@latest
