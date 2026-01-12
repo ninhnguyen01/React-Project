@@ -1,3 +1,2 @@
 # React-Project
-In-progress.
-Use Vite + React.
+<h2>The library for web and native user interfaces.</h2>
