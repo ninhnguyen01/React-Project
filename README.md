@@ -1,2 +1,3 @@
 # React-Project
-In progress. Examples. Use Vite + React.
+In-progress.
+Use Vite + React.
